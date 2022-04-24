@@ -9,3 +9,8 @@
     .man-walking-in-the-night-following-light-3-rgba { color: rgba(190, 191, 174, 1); }
     .man-walking-in-the-night-following-light-5-rgba { color: rgba(38, 38, 38, 1); } 
 */
+
+#avatar {
+    height: 640px;
+    width: 320px;
+}

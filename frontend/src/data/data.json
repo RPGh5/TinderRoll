@@ -1,5 +1,6 @@
 [
   {
+    "key": 0,
     "name": "Ariel",
     "nickname": "'Sligth eye'",
     "surname": "Smith",
@@ -9,6 +10,7 @@
     "hobbies": [ "Reading", "Hunting", "Coocking" ]
   },
   {
+    "key": 1,
     "name": "Urug",
     "nickname": "'Big Axe'",
     "surname": "Jonson",
@@ -18,6 +20,7 @@
     "hobbies": [ "Eating", "Beating meat", "Slashing" ]
   },
   {
+    "key": 2,
     "name": "Sella",
     "nickname": "'Kind hearth'",
     "surname": "Mickleson",
