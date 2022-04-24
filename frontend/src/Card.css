@@ -5,12 +5,22 @@
     .Light-golden-brown-gradient-abstract-background-5-rgba { color: rgba(191, 149, 99, 1); }
 
     Color Theme Dark Swatches in RGBA
-    .man-walking-in-the-night-following-light-1-rgba { color: rgba(63, 63, 58, 1); }
-    .man-walking-in-the-night-following-light-3-rgba { color: rgba(190, 191, 174, 1); }
-    .man-walking-in-the-night-following-light-5-rgba { color: rgba(38, 38, 38, 1); } 
+    .man-walking-in-the-night-following-light-1-rgba { color:  }
+    .man-walking-in-the-night-following-light-3-rgba { color:  }
+    .man-walking-in-the-night-following-light-5-rgba { color:  } 
 */
 
 #avatar {
     height: 640px;
     width: 320px;
+}
+#card {
+    text-align: center;
+    background-color: #F2E1C2;
+    border-radius: 25px;
+    width: 50%;
+    height: max-content;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 2%;
 }
