@@ -1,4 +1,4 @@
-[
+export const data =[
   {
     "key": 0,
     "name": "Ariel",
