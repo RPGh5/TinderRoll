@@ -11,8 +11,9 @@
 */
 
 #avatar {
-    height: 70%;
-    width: 40%;
+    height: 90%;
+    width: 50%;
+    margin: 5%;
 }
 #card {
     text-align: center;
