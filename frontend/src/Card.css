@@ -11,16 +11,16 @@
 */
 
 #avatar {
-    height: 640px;
-    width: 320px;
+    height: 70%;
+    width: 40%;
 }
 #card {
     text-align: center;
     background-color: #F2E1C2;
     border-radius: 25px;
     width: 50%;
-    height: max-content;
+    height: 90%;
     margin-left: 25%;
     margin-right: 25%;
-    margin-top: 2%;
+    margin-top: 5%;
 }
