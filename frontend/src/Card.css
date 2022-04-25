@@ -1,25 +1,19 @@
-/*
-    Color Theme Light Swatches in RGBA
-    .Light-golden-brown-gradient-abstract-background-1-rgba { color: rgba(216, 189, 138, 1); }
-    .Light-golden-brown-gradient-abstract-background-3-rgba { color: rgba(242, 234, 220, 1); }
-    .Light-golden-brown-gradient-abstract-background-5-rgba { color: rgba(191, 149, 99, 1); }
-
-    Color Theme Dark Swatches in RGBA
-    .man-walking-in-the-night-following-light-1-rgba { color:  }
-    .man-walking-in-the-night-following-light-3-rgba { color:  }
-    .man-walking-in-the-night-following-light-5-rgba { color:  } 
-*/
-
+body {
+    background-color: #DFDEDF;
+    color: #38383D;
+}
 #avatar {
     height: 70%;
     width: 40%;
     margin: 1%;
+    border-radius: 5%;
+    border: 5px solid black;
 }
 #card {
     text-align: center;
     font-size: 400%;
-    background-color: #F2E1C2;
-    border-radius: 50px;
+    background-color: #D9D8DA;
+    border-radius: 10%;
     width: 50%;
     height: 90%;
     margin-left: 25%;
@@ -34,5 +28,23 @@ button {
     width: 25%;
     height: 25%;
     margin: 1%;
+    border-radius: 1100px;
+    box-shadow: 2px, 2px, 45px, black;
+}
+button:hover, button:focus {
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.5em);
 }
 
+#card.dark {
+    background-color: #1E1E1E;
+}
+
+body.dark {
+    background-color: #121212;
+    color: #BB86FC;
+}
+#switch {
+    width: 5%;
+    height: 5%;
+}
