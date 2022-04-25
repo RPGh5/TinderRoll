@@ -64,6 +64,8 @@ class UserCard extends React.Component {
             document.getElementById('card').classList.toggle('dark');
         } else {
             this.setState({ src_path: '/icons/dark/' })
+            document.body.classList.toggle('dark');
+            document.getElementById('card').classList.toggle('dark');
         }
     }
 
